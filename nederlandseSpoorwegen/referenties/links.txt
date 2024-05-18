@@ -1,0 +1,4 @@
+- Actuele vertrektijden: https://www.ns.nl/reisinformatie
+- https://simplemaps.com/data/nl-cities
+- https://allecijfers.nl/ranglijst/aantal-inwoners-per-provincie-in-nederland/
+- https://hub.arcgis.com/datasets/975552a98c8241b39d531b0a0b98a78f/explore
